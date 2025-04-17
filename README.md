@@ -30,4 +30,4 @@ Install all dependencies:
 ```bash
 pip install -r requirements.txt
 ## Contact
-Feel free to reach out at [sunildabbi@domain.com](mailto:sunildabbi@domain.com)
+Feel free to reach out at [sunildabbi03@domain.com](mailto:sunildabbi03@domain.com)
